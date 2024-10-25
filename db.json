@@ -1,0 +1,10 @@
+{
+    "posts": [
+      { "id": 1, "title": "Test test test", "author": "Daniel" },
+      { "id": 2, "title": "Hello World", "author": "Daniel" }
+    ],
+    "comments": [
+      { "id": 1, "postId": 1, "body": "Verkar funka bra", "author": "Leinad" }
+    ]
+  }
+  
